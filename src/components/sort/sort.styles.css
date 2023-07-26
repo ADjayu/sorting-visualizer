@@ -1,0 +1,11 @@
+.sorting-container-div {
+	padding-top: var(--top-height);
+}
+
+.sorting-component-inner-container {
+	padding: 10px;
+}
+
+.sorting-component-inner-container > h1 {
+	padding-bottom: 10px;
+}
