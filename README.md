@@ -1,7 +1,7 @@
 # Sorting Algorithm Visualizer
 A React.js web application allows user to visualize the common sorting algorithms like bubble sort, selection sort, insertion sort, shell sort, merge sort, and quick sort in an animated way.
 
-Visit the application at https://jayus-sorting-visualizer.netlify.app
+Just visit the [site](https://jayus-sorting-visualizer.netlify.app) for better visualization.
 
 ## Features:
 
